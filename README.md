@@ -1,3 +1,8 @@
 if statement (example)
 else if (example1)
 else if (example2)
+while loop (example)
+do while (example)
+switch case (example)
+nested loop (example)
+inheritance (example)
